@@ -1,1 +1,0 @@
-return _('Object Local Camera')
